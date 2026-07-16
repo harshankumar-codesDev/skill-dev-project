@@ -21,6 +21,6 @@ https://hotelstaticweb.ccbp.tech/
 #react shopping app portfolio
 https://hkweb.ccbp.tech/
 /*  login={
-  username : 'rahul,
+  username : 'rahul',
   password : 'rahul@2021'
 }   */
